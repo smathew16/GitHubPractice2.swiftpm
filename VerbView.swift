@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct VerbView: View {
     var body: some View {
       
             
